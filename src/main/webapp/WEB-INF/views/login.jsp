@@ -9,7 +9,7 @@
     </style>
 </head>
 <body>
-<p><b>Login driver:</b></p>
+<p><b>TAXI SERVICE:</b></p>
 <form method="POST" action="${pageContext.request.contextPath}/login">
     <div class="mb-3">
         <label for="name" class="form-label">Login</label>
